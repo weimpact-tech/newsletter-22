@@ -1,0 +1,131 @@
+{
+  "previa": "Capital intelectual, impacto e resiliência.",
+  "artigoDestaque": {
+    "numeroEdicao": "22",
+    "mensagemSpam": "Não queremos ir para o spam! =) selecione este email como “confiável” ou mova-o para a Caixa de Entrada.",
+    "img": "./img/1_destaque_news22.png",
+    "alt": "imagem ilustrativa",
+    "titulo": "Capital intelectual para transformar  ,links de fundo bege na style= \"color: #520b9e\"!!!!!!!!!!",
+    "texto": [
+      "Em um país onde a maior parte da população é composta por mulheres e pessoas negras, a representatividade e as oportunidades que elas encontram no ecossistema de startups ainda são extremamente baixas.",
+      "Como forma de contribuir para a transformação desse cenário, nossa CEO, Lícia Souza,  e as #mentorasWE Impact   Thammy I Marcato, Transformation Architect da KPMG & Distrito Leap e  Cynthia Zanoni, Technology Strategist da Microsoft, abriram mentorias gratuitas exclusivas para impulsionar a jornada de empreendedoras negras (cis ou trans) e o crescimento de seus negócios.",
+      "O movimento foi parte de uma ação especial de Dia Global do Empreendedorismo Feminino + Dia da Consciência Negra que anunciamos em novembro do ano passado.",
+      "Nos encontros, as fundadoras mentoradas apontaram os principais desafios de suas jornadas e tiveram acesso a todo o conhecimento de nossas especialistas em desenvolvimento de negócios, gestão empresarial, captação de investimentos, transformação digital, inovação aberta, novos negócios e tecnologia."
+    ],
+    "linkBotao": "https://www.weimpact.tech/ecommerce-unbox/",
+    "botao": "[Saiba mais sobre a ação]"
+  },
+  "compartilhe": {
+    "texto": [
+      "Está aproveitando a leitura?",
+      "Que tal compartilhar essa edição da WE Impact News com outras empreendedoras e empreendedores da sua rede de contatos? 😉"
+    ]
+  },
+  "weImpactNetwork": {
+    "tituloSecao": "#WIN – WE Impact Network",
+    "titulo": "Aplicando as soft skills no sucesso da sua startup",
+    "img": "./img/2_WIN_news22.png",
+    "alt": "Maíra Pimentel",
+    "linkedinAutora": "",
+    "nomeAutora": "FALTANDO LEGENDAAmanda Andreone",
+    "descricaoAutora": "investidora no BR Angels",
+    "texto": [
+      "Depois de anos ignorando as soft skills, as lideranças vêm percebendo que montar um time diverso em talentos e habilidades socioemocionais pode ser uma grande vantagem competitiva.",
+      "Com isso, elas estão se tornando um atrativo para o mercado – atualmente, 87% das recrutadoras e recrutadores acreditam que elas são cruciais ao avaliar candidaturas.",
+      "Dessa necessidade, surgem soluções como a Tamboro, fundada por Maíra Pimentel, uma startup que desenvolve essas habilidades por meio de inteligência de dados.",
+      "No blog da WE Impact, ela compartilha dicas de como prover esses valores na sua startup:"
+    ],
+    "tituloLista": "título lista JSON",
+    "textoLista": "texto lista JSON",
+    "linkBotao": "https://www.weimpact.tech/mulheres-investidoras/",
+    "botao": "[Leia mais]"
+  },
+  "diversidadeNaPratica": {
+    "tituloSecao": "#DiversidadenaPrática",
+    "titulo": "Tendências de D&I para 2023",
+    "img": "./img/3_diversidadenapratica_news22.png",
+    "alt": "profissional +40 anos",
+    "texto": [
+      "O número de empresas com recursos e gestão dedicados à diversidade e inclusão está crescendo! A pesquisa Benchmarking: Panorama das Estratégias de Diversidade no Brasil 2022 e tendências para 2023, apontou avanço de X e mapeou, ainda, as principais ações de 117 empresas de 34 setores diferentes com grande potencial para 2023:"
+    ],
+    "tituloLista": "título lista JSON",
+    "textoLista": [
+      "1. Comunicação inclusiva interna e externamente",
+      "2. Realização de eventos sobre o tema",
+      "3. Grupos de afinidade",
+      "4. Canal de denúncias ou ouvidoria",
+      "5. Programas de treinamento e desenvolvimento",
+      "Que tal implementar algumas delas na sua startup?"
+    ],
+    "linkBotao": "https://forbes.com.br/carreira/2021/12/nova-diversidade-empresas-buscam-profissionais-40/",
+    "botao": "NÃO PARECE TER, CONFIRMAR!"
+  },
+  "dicaDaCEO": {
+    "tituloSecao": "#DicadaCEO",
+    "titulo": "",
+    "img": "./img/4_dicadaceo_news22.png",
+    "alt": "Fabiane Kuhn",
+    "texto": [
+      "“Minha principal dica é não desistir, por mais difícil que o caminho pareça. A jornada empreendedora vai ser uma montanha-russa com muitos altos e baixos.",
+      "Os momentos de altos são extremamente gratificantes, porque cada empreendedora e empreendedor é protagonista da diferença que está fazendo no mundo.",
+      "Então, continue, mesmo que os momentos pareçam impossíveis: essa é uma jornada que demanda muita resiliência.”"
+ ],
+    "linkedinAutora": "",
+    "nomeAutora": "Fabiane Kuhn (NÃO TEM MAIS LINKEDIN?)",
+    "descricaoAutora": " fundadora e CEO da Raks Tecnologia Agrícola"
+  },
+  "elasImpactam": {
+    "tituloSecao": "#ElasImpactam",
+    "img": "./img/5_elasimpactam_news22.png",
+    "alt": "Cinthya Zanoni",
+    "titulo": "Criando seu site com a #MentoraWEImpact",
+    "texto": [
+      "E por falar em mentoria gratuita...  nossa mentora Cynthia Zanoni vai ministrar, no dia 27 de janeiro, um workshop sobre Power Pages.",
+      "Nesse evento gratuito, você vai aprender a criar um site com a ferramenta e, com esse conhecimento, desenvolver uma página institucional para sua empresa, divulgar produtos e serviços, criar um portfólio pessoal… sem utilizar códigos longos e complexos!",
+      "<b> Acesse o link para saber mais:</b>",
+      "DUPLICAR SEÇÃOOOOOO!!!!"
+      ],
+    "textoLista": "texto lista JSON",
+    "linkBotao": "https://developer.microsoft.com/pt-br/reactor/events/18004/?wt.mc_id=1reg_18004_webpage_reactor",
+    "botao": "[Quero me inscrever]"
+  },
+  "naMidia": {
+    "tituloSecao": "#NaMídia",
+    "img": "./img/6_namidia_news22.png",
+    "alt": "imagem ilustrativa",
+    "titulo": "NÃO VAI TER",
+    "texto": [
+      "A Unbox, uma das startups investidas da WE Impact, foi reconhecida pela Pequenas Empresas & Grandes Negócios como uma das 100 ferramentas para transformar sua empresa em 2022!",
+      "A solução, que permite a criação de uma loja online virtual conectada a meios de pagamento, logística e redes sociais em poucos minutos, foi citada na categoria Comércio Eletrônico. Parabéns ao time da Unbox, e que venham muitas outras conquistas como essa!"
+    ],
+    "linkBotao": "https://www.linkedin.com/feed/update/urn:li:activity:6884250856821198848/?actorCompanyId=37821762",
+    "botao": "Clique para ver a lista completa"
+  },
+  "nasRedes": {
+    "tituloSecao": "#NasRedes",
+    "img": "./img/7_narede_news22.png",
+    "alt": "imagem ilustrativa",
+    "titulo": "Perdeu esse conteúdo?",
+    "texto": "Em dezembro, publicamos uma retrospectiva com as entrevistas mais lidas do blog da WE Impact. Confira o post para ver a lista de artigos baseados na jornada e experiência de mulheres que, além de inspirar a representatividade e o empoderamento feminino, compartilham dicas práticas de como alcançar o sucesso no ecossistema de tecnologia e inovação!",
+    "linkBotao": "https://www.linkedin.com/feed/update/urn:li:activity:7006342625096032256",
+    "botao": "Veja o post"
+  },
+  "saveTheDate": {
+    "tituloSecao": "#WEImpactIndica",
+    "titulo": "Perdeu esse conteúdo?",
+    "texto": "ONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSON",
+    "linkBotao": "https://www.sebrae.com.br/sites/PortalSebrae/startupday2021/home",
+    "botao": "Veja a programação completa"
+  },
+  "footer": {
+    "chamada": "Recebeu este email de alguém?",
+    "linkBotao": "https://startups.weimpact.tech/we-impact-news?utm_source=Newsletter&utm_medium=email&utm_campaign=newsletter",
+    "botao": "Assine a WE Impact News",
+    "linkLinkedin": "https://www.linkedin.com/company/weimpact-tech",
+    "imgLinkedin": "https://weimpact-tech.github.io/newsletter-4/img/linkedin-icon.png",
+    "altLinkedin": "Linkedin",
+    "linkInstagram": "https://www.instagram.com/weimpact.tech/",
+    "imgInstagram": "https://weimpact-tech.github.io/newsletter-4/img/insta-icon.png",
+    "altInstagram": "Instagram"
+  }
+}
